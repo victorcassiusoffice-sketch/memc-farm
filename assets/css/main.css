@@ -58,6 +58,8 @@
 }
 
 *,*::before,*::after{ box-sizing:border-box }
+/* components set display:flex/inline-flex, which outranks the UA [hidden] rule */
+[hidden]{ display:none !important }
 html{ -webkit-text-size-adjust:100%; scroll-behavior:smooth }
 @media (prefers-reduced-motion: reduce){ html{ scroll-behavior:auto } }
 
