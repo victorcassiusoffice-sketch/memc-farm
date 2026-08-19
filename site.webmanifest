@@ -1,0 +1,15 @@
+{
+  "name": "MEMC Wild Roots Farmhouse",
+  "short_name": "MEMC Wild Roots",
+  "description": "Farmhouse and restaurant in Manahara, Chitwan, Nepal. Food, BBQ, live music, camping and bonfire nights.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A141E",
+  "theme_color": "#0A141E",
+  "lang": "en",
+  "icons": [
+    { "src": "/assets/brand/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/assets/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

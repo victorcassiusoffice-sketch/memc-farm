@@ -1,0 +1,82 @@
+{
+ "cabin-horse-dusk": {
+  "src": "assets/img/cabin-horse-dusk.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/cabin-horse-dusk-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAACQBgCdASoUACQAPulgqVGpJKOiqrgKASAdCWQApzSZQsF24pIvdOTttbSxDi1QtBGwvGsFrrpK3DzBAl4AAMqMOY3knbeYd+pCoUANU3luqI5RwGmTO4KDHv2Qgef6r+doUHUFs7+tXlUykR5Qijw+CWVF8+5jSCzYW+IE0tBLDhMXTTct373YaQchF1VxbXk0foiFNFtY440ZZp+n6PGLTI9fLayjLmaRnpRgt2wj4gj4EmSJgRhSpcAFGiETzKAIWMVYaDBQ1sxhCr2uzlOGBFqLaqZ2ArBz3SsAjvQ8EABEAAA=",
+  "bytes": 30018
+ },
+ "thatch-dining-dusk": {
+  "src": "assets/img/thatch-dining-dusk.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/thatch-dining-dusk-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQBgCdASoUACQAPulipU8pJSMiKqwBIB0JYgCw7d0Yk0dC4xL4GSbt0zUqXbS9hCUEqKIP4M2wCvnxIAD9uY21HIDVrvwfzHd+OQqvjHcu0WWnNsT0T8bEt78f1BCKLlKLqJGR+NPVLr7HXURfwmEj19hfBFmiW3Nqm0aFr02CHWDSzZzxftTPG86FcIMX4KWLrNzyg+PsSOGTw6YCoyF2xN0kJ+miTf0i9zKYw+LMjdlUcdcQ7Iatvp5ilQx2gfDm1Npu7nd7b82rfYX+zCW+PUGs7APL4AA=",
+  "bytes": 37412
+ },
+ "live-music-hut": {
+  "src": "assets/img/live-music-hut.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/live-music-hut-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAABwBgCdASoUACQAPulmq1ApJSOiqqgBIB0JQBgh5fg6iw2wNF6xrTiff7pdpKWSwjmIbZFAYor6uRo5jmAA/ngmoD91yuk2J/8atPg6gQ+m1QmKFmsMg2ZfIy6Up3uHqv2VdLy9QWS/yLUceLRaaBvEYVeFfIkU2FaSbVqZieKvNINgoO0o3H/Zd6ufqNWaDUiqgTkZfEvFIeRhWiH5jz32shPIDuD14PbR9To48iV2i9dbPaPftupl8CfwNdGXtjmFqenwFppboqPiGsp8kIsQBPBtmGa/Frfr9hfez6iVZN23vUN0eeBmDWjsakXqTdT3H5kAl3ah84yTgL8hd3mAAAA=",
+  "bytes": 37452
+ },
+ "machan-sunset-gathering": {
+  "src": "assets/img/machan-sunset-gathering.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/machan-sunset-gathering-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBgCdASoUACQAPulgq0+pJSOiKrgMASAdCUAYmwFlPbXMEOmtTjOUcaitwIGd2chaxBWSptzB5OAA/t6+FtknvxVhvAJ77RuQ/kvMSgtD4MSZHjBypybkD2g92umkoklpoO8vLcTr125R67uxq9QCL952rSC5xhEQntc4A/gvolwKdCVdbdyd7QGcwyNbF7xyH+3HbDJuUeZrvHw9baR12kt/ohjZzEztHrPb0rH/Y/wCDRFoZQAS03mYeoDoyYStF4PfgDFILx7SWG+G9OWzYWNHHBX4gAA=",
+  "bytes": 42712
+ },
+ "meadow-swing-flags": {
+  "src": "assets/img/meadow-swing-flags.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/meadow-swing-flags-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAAAwBQCdASoUACQAPulsrVApJiQiqqgBIB0JYwC7BbHBCU65XxuZahILJ9+pQSUyE+TbAADVFop0/Gby6xZ0dzV7Fwj40g6yLXB3vFHXBUit0p+YvyHhPsvTOFFf8OgD0pudF7K+QeQ9VSD7DfA6x1sdtNyfDf5d7pcmrJjc74gd7jne+8VBRFh9Ni5nz4sq/MeGuUqMIlc1aCx67xbbSvFBsTtqOwVzMbOANiwgmldTSuIceJYNCtCCV86YEiolHidK1Em7GDjDJVujbMoEFqU3KkU4F6YgBgVQxp4j/UkpkIcqgAA=",
+  "bytes": 62680
+ },
+ "lane-string-lights": {
+  "src": "assets/img/lane-string-lights.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/lane-string-lights-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBQCdASoUACQAPulwrFEpJqQiqrgIASAdCUAQXTX/AfaNDolQWGhZjQUhsGfjgivoLBIf3+humAD+6MmvYcE743hC0tmG4qKtaD0WVktRJGXJh9t2/YQH+dp7Ae2POf3r6WD89RDpezrSnHMAvCKKNDEfXSDSC1TzCyHamcUmB9Zxv6yhJr813Mngvqpn+MLcSNXYFeEM2d+rs2ogYuncSDewx1JZp1g1hWtgLHhd099NMicBdguMNgAAAA==",
+  "bytes": 22612
+ },
+ "grounds-after-dark": {
+  "src": "assets/img/grounds-after-dark.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/grounds-after-dark-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwBACdASoUACQAPulmqk8pJaiiJW5hIB0JZQDMWFWxJNMhbg0t8axuZmvADOuAAP72etFqRPye4BLg8WlAH2qls8D9DTXCJkVC3Da60ZgeRUT3N9MUGR+xFnyDriWio+uCQnkWl5twbolvkEYx081Af+6260zdPf8uD19eAvxV+Q7wCq+hlEDo6yumuWwJdcoLTqvAAAA=",
+  "bytes": 15486
+ },
+ "hammock-veranda-day": {
+  "src": "assets/img/hammock-veranda-day.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/hammock-veranda-day-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASoUACQAPulsslGpJaSipWmZIB0JZQC90CDdnvPyirMyT555wgv/0xidkp2tAdJMbD8CAAD+nAEj3HaM51xD8pQ/iqOErUTS7WXXRouFpNnyU7g1CbxWJe2e6jhnuVAXUjmUtK8cOxWc7h+PpIurNgvbT3MYKgC4jtpNeaU5J31l/ZXgLBY+p3Dj80oczTc/9pvfdTRnvKHnAAfMDmEHHXYYfYDvqRtF2VzntZ8mYM4860t7W9bG+NvdiWuX9/SQ7vjsN4QOLmq32CJzuRsiFMLfNU8vdvV/WpowqghgKJ8pBC2pTSdFv0CH7lAAAA==",
+  "bytes": 57392
+ },
+ "approach-road-parking": {
+  "src": "assets/img/approach-road-parking.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/approach-road-parking-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAAAQBgCdASoUACQAPulqqVCpJiOipW5hIB0JZQC9WETahx0zqiEmIsEkP/JnY1mWV8eobi+fzJ/FUiAA/vU8XySoKSml0x6ngYb5XYxohjWydftKvbE13c7k6x7OhZsGm/htP5Bvno4DFyESOYavaj71g8104xQOttOlfPOT5lnwUZdoIFniChvbt6IEDuVF/WQWZeR5eoeiUAFPwC1y4XbjXelN1NOWYGqGnV37QVwLI1cJaLJ+JDJcl+OLs8CZhJVZNKnurlSBOaugAAA=",
+  "bytes": 31186
+ },
+ "rider-flags-meadow": {
+  "src": "assets/img/rider-flags-meadow.webp",
+  "w": 360,
+  "h": 640,
+  "sq": "assets/img/rider-flags-meadow-sq.webp",
+  "lqip": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASoUACQAPulur1MpJiQipWgBIB0JYgC7M75H7j2ZU7Zd14fe68tzCtuar4fnaRKS85MbAAD+8mFLryW0ONtrPDfUk5V/oou8lsJcOBX7PVCbtQIoxqgireJkilLWTu6eVf5N+HgWX4KlA4wI4sLPGw5Zsrk6B+HGnFNmTUer4ZZ6dzIFySwfAHkplIduECNj9UiTswy49MR04gcL2gTJE109u2rXhO/sM7PdDtQWtqK0X8gH6nIZYwL7FjbAkd+TszxLy8EbyUESJoSwnkLx4psMjrMUQsL+fgHmDvuZiSlE4H6AAAA=",
+  "bytes": 36548
+ }
+}

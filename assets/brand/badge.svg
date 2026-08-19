@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="MEMC Wild Roots Farmhouse — From Road To Roots — Chitwan, Nepal — Est. 2026">
+  <!-- Standalone brand mark. Uses Oswald + Alex Brush; when rendered outside a page
+       that loads those fonts it falls back to a condensed system face. For print or
+       signage, open in Illustrator/Inkscape and convert text to outlines first. -->
+  <defs>
+    <path id="mb-arc-top"    d="M 56,256 A 200,200 0 0 1 456,256"/>
+    <path id="mb-arc-name"   d="M 98,256 A 158,158 0 0 1 414,256"/>
+    <path id="mb-arc-script" d="M 60,256 A 196,196 0 0 0 452,256"/>
+    <path id="mb-arc-place"  d="M 34,256 A 222,222 0 0 0 478,256"/>
+  </defs>
+
+    <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="256" cy="256" r="250" stroke-width="5"/>
+      <circle cx="256" cy="256" r="236" stroke-width="1.6"/>
+    </g>
+    <g fill="currentColor">
+      <text font-size="35" letter-spacing="2.2" text-anchor="middle" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600"><textPath href="#mb-arc-top" startOffset="50%">MEMC WILD ROOTS</textPath></text>
+      <text font-size="46" letter-spacing="1" text-anchor="middle" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600"><textPath href="#mb-arc-name" startOffset="50%">FARMHOUSE</textPath></text>
+      <text font-size="40" text-anchor="middle" font-family="'Alex Brush', cursive"><textPath href="#mb-arc-script" startOffset="50%">From Road To Roots</textPath></text>
+      <text font-size="19" letter-spacing="3.2" text-anchor="middle" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600"><textPath href="#mb-arc-place" startOffset="50%">CHITWAN, NEPAL</textPath></text>
+      <text x="62" y="262" font-size="21" letter-spacing="1.6" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600">EST.</text>
+      <text x="450" y="262" font-size="21" letter-spacing="1.2" text-anchor="end" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600">2026</text>
+    </g>
+    <path fill="currentColor" d="M232 186c1-4 4-6 7-8 3-2 5-5 8-5 2 0 3 2 6 2s5-2 8-2c4 0 7 2 10 5l6 6c2 2 4 3 6 3l3-4 2 5c0 3-2 5-5 6l-4 1-2 6-4-1 1-6-6-1-8 1-1 9 4 8h-5l-5-8-1-7h-10l-1 7-5 8h-5l4-8-1-9-4-3-1 5-4-1 1-6z"/>
+    <g stroke="currentColor" fill="none" stroke-width="4.2" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M256 196 190 230M256 196 322 230"/>
+      <path d="M190 230q-14 5-22 14l14 8"/>
+      <path d="M322 230q14 5 22 14l-14 8"/>
+      <path d="M182 252 182 356 330 356 330 252Z"/>
+      <path d="M190 230 322 230"/>
+    </g>
+    <g stroke="currentColor" fill="none" stroke-width="2" opacity=".5"><path d="M182 272h148M182 292h148M182 312h148M182 332h148"/></g>
+    <text x="256" y="228" font-size="20" letter-spacing="2.6" text-anchor="middle" fill="currentColor" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600">MEMC</text>
+    <g stroke="currentColor" fill="none" stroke-width="3.4">
+      <rect x="243" y="238" width="26" height="26" rx="1"/>
+      <path d="M256 238v26M243 251h26"/>
+      <rect x="197" y="278" width="15" height="26" rx="1"/>
+      <rect x="300" y="278" width="15" height="26" rx="1"/>
+      <path d="M228 356v-38h56v38"/>
+      <path d="M228 318 256 300 284 318"/>
+    </g>
+    <g stroke="currentColor" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M92 268 78 300h28zM92 286 74 318h36zM92 304 70 338h44M92 338v10"/>
+      <path d="M120 254 108 286h24zM120 272 104 304h32zM120 290 100 322h40M120 322v8"/>
+      <path d="M146 344 122 344 148 296 174 344 150 344M148 296 148 344M141 344q7-16 7-24 0 8 7 24"/>
+      <path d="M416 336q-16-8-16-22 0-12 10-20-2 10 6 14 8-12 2-24 20 10 20 30 0 14-14 22"/>
+      <path d="M386 344 440 344M390 350 436 338M390 338 436 350"/>
+    </g>
+    <g fill="currentColor">
+      <path d="M400 272l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+      <path d="M430 292l2.4 6 6 2.4-6 2.4-2.4 6-2.4-6-6-2.4 6-2.4z"/>
+      <path d="M418 258l1.8 4.6 4.6 1.8-4.6 1.8-1.8 4.6-1.8-4.6-4.6-1.8 4.6-1.8z"/>
+    </g>
+    <g stroke="currentColor" fill="none" stroke-width="2.6" stroke-linecap="round">
+      <path d="M166 350V276M166 288q-11-4-12-14 11 1 12 11M166 288q11-4 12-14-11 1-12 11M166 306q-11-4-12-14 11 1 12 11M166 306q11-4 12-14-11 1-12 11M166 324q-11-4-12-14 11 1 12 11M166 324q11-4 12-14-11 1-12 11"/>
+      <path d="M346 350V276M346 288q-11-4-12-14 11 1 12 11M346 288q11-4 12-14-11 1-12 11M346 306q-11-4-12-14 11 1 12 11M346 306q11-4 12-14-11 1-12 11M346 324q-11-4-12-14 11 1 12 11M346 324q11-4 12-14-11 1-12 11"/>
+    </g>
+    <g stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="198" cy="360" r="31" stroke-width="5.5"/><circle cx="198" cy="360" r="17.5" stroke-width="2.2" opacity=".5"/><circle cx="198" cy="360" r="6" stroke-width="3"/>
+      <circle cx="326" cy="360" r="31" stroke-width="5.5"/><circle cx="326" cy="360" r="17.5" stroke-width="2.2" opacity=".5"/><circle cx="326" cy="360" r="6" stroke-width="3"/>
+      <g stroke-width="1.8" opacity=".42">
+        <path d="M198 342v36M180 360h36M185.3 347.3l25.4 25.4M210.7 347.3l-25.4 25.4"/>
+        <path d="M326 342v36M308 360h36M313.3 347.3l25.4 25.4M338.7 347.3l-25.4 25.4"/>
+      </g>
+      <path stroke-width="4" d="M170 348a32 32 0 0 1 40-14"/>
+      <path stroke-width="4" d="M312 340a30 30 0 0 1 30 12"/>
+      <path stroke-width="5" d="M208 334q18-7 36-5"/>
+      <path stroke-width="5" d="M244 329q16-11 32-6 11 4 14 13l-12 7-34 2z"/>
+      <path stroke-width="5" d="M198 360 220 350 240 350"/>
+      <path stroke-width="5" d="M240 350 246 336"/>
+      <path stroke-width="4.6" d="M240 344h30v18h-30z"/>
+      <path stroke-width="2.4" opacity=".55" d="M245 349h20M245 355h20"/>
+      <path stroke-width="4" d="M234 366 204 370"/>
+      <path stroke-width="5" d="M326 360 306 326"/>
+      <path stroke-width="4.6" d="M290 318 316 314"/>
+      <circle cx="306" cy="332" r="7.5" stroke-width="3.5"/>
+      <path stroke-width="4.6" d="M290 343 292 326"/>
+    </g>
+    <g stroke="currentColor" fill="none" stroke-width="3" stroke-linecap="round" opacity=".7">
+      <path d="M118 396q138 18 276 0"/><path d="M146 406q36 5 70 5M298 411q38 0 70-5"/>
+    </g>
+  
+</svg>
